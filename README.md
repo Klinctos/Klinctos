@@ -11,7 +11,7 @@ Unreal Engine Developer|C++|Pythone
 * ✉️  You can contact me at [timursuper229@gmail.com](mailto:timursuper229@gmail.com)
 * 🚀  I'm currently working on [MyGame](http://drive.google.com/file/d/1ZXaeqewNJMhp4A-M8OaFqAPHnE1QQRND/view?usp=sharing)
 * 🧠  I'm learning Pythone и планирую HTML5
-* ⚡  Говорят, что если взять меня на работу, то всё у вс будет хорошо🤫
+* ⚡  Говорят, что если взять меня на работу, то всё у вас будет хорошо🤫
 
 ### Skills
 
