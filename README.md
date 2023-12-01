@@ -8,7 +8,7 @@ Unreal Engine Developer|C++|Pythone
 
 * 🌍  I'm based in Russia - Surgut
 * 🖥️  See my portfolio at [Complited project](http://youtu.be/PUw1wOQQUIE?si=Pcd8vqD9wVbRbUup)
-* ✉️  You can contact me at [timursuper229@gmail.com](mailto:timursuper229@gmail.com)
+* ✉️  You can contact me at [izabekov.t.a.086@gmail.com](mailto:izabekov.t.a.086@gmail.com)
 * 🚀  I'm currently working on [MyGame](http://drive.google.com/file/d/1ZXaeqewNJMhp4A-M8OaFqAPHnE1QQRND/view?usp=sharing)
 * 🧠  I'm learning Pythone и планирую HTML5
 * ⚡  Говорят, что если взять меня на работу, то всё у вас будет хорошо🤫
