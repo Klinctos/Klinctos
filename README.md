@@ -6,11 +6,11 @@ Unreal Engine Developer|C++|Pythone
 
 Всех приветствую! Я начинающий разработчик на Unreal Engine, C++ и Python. Обучаюсь я на платформе Skillbox и Yandex лицей, а также в колледже на Системного администратора!
 
-* 🌍  I'm based in Russia - Surgut
-* 🖥️  See my portfolio at [Complited project](http://youtu.be/PUw1wOQQUIE?si=Pcd8vqD9wVbRbUup)
-* ✉️  You can contact me at [Izabekov.T.A.086@gmail.com](mailto:izabekov.t.a.086@gmail.com)
-* 🚀  I'm currently working on [MyGame](http://drive.google.com/file/d/1ZXaeqewNJMhp4A-M8OaFqAPHnE1QQRND/view?usp=sharing)
-* 🧠  I'm learning Pythone и планирую HTML5
+* 🌍  Я нахожусь в Росии - Сургут
+* 🖥️  Посмотреть моё портфолио [Законченный проект](http://youtu.be/PUw1wOQQUIE?si=Pcd8vqD9wVbRbUup)
+* ✉️  Вы можете связаться со мной [Izabekov.T.A.086@gmail.com](mailto:izabekov.t.a.086@gmail.com)
+* 🚀  В данный момент я работаю над [Bollbrake](http://drive.google.com/file/d/1ZXaeqewNJMhp4A-M8OaFqAPHnE1QQRND/view?usp=sharing)
+* 🧠  Я обучаюсь Pythone и планирую HTML5
 * ⚡  Говорят, что если взять меня на работу, то всё у вас будет хорошо🤫
 
 ### Skills
